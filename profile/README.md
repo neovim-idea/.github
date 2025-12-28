@@ -7,5 +7,5 @@
 
 ###### Home of neovim-idea project and related plugins
 
-![Neovim Idea Logo Social](./imgs/neovim-idea-social-banner.png)
+![Neovim Idea Logo Social](../imgs/neovim-idea-social-banner.png)
 </div>
